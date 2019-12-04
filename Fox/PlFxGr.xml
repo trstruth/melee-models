@@ -1,0 +1,387 @@
+<DAT>
+  <DataObject0 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject0>
+  <DataObject1 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject1>
+  <DataObject2 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject2>
+  <DataObject3 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject3>
+  <DataObject4 Flags="1C">
+    <Textures>
+      <Texture Flags="40081" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject4>
+  <DataObject5 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject5>
+  <DataObject6 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject6>
+  <DataObject7 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject7>
+  <DataObject8 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject8>
+  <DataObject9 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject9>
+  <DataObject10 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject10>
+  <DataObject11 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject11>
+  <DataObject12 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject12>
+  <DataObject13 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject13>
+  <DataObject14 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject14>
+  <DataObject15 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject15>
+  <DataObject16 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject16>
+  <DataObject17 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject17>
+  <DataObject18 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject18>
+  <DataObject19 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject19>
+  <DataObject20 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject20>
+  <DataObject21 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject21>
+  <DataObject22 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject22>
+  <DataObject23 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject23>
+  <DataObject24 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject24>
+  <DataObject25 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject25>
+  <DataObject26 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject26>
+  <DataObject27 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="MIRROR" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject27>
+  <DataObject28 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject28>
+  <DataObject29 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject29>
+  <DataObject30 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject30>
+  <DataObject31 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject31>
+  <DataObject32 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="REPEAT" WrapT="REPEAT" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject32>
+  <DataObject33 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject33>
+  <DataObject34 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject34>
+  <DataObject35 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject35>
+  <DataObject36 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject36>
+  <DataObject37 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject37>
+  <DataObject38 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject38>
+  <DataObject39 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject39>
+  <DataObject40 Flags="1C">
+    <Textures>
+      <Texture Flags="50081" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject40>
+  <DataObject41 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject41>
+  <DataObject42 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject42>
+  <DataObject43 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject43>
+  <DataObject44 Flags="14">
+    <Textures>
+      <Texture Flags="30010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject44>
+  <DataObject45 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject45>
+  <DataObject46 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject46>
+  <DataObject47 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject47>
+  <DataObject48 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject48>
+  <DataObject49 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject49>
+  <DataObject50 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject50>
+  <DataObject51 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject51>
+  <DataObject52 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject52>
+  <DataObject53 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject53>
+  <DataObject54 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject54>
+  <DataObject55 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject55>
+  <DataObject56 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject56>
+  <DataObject57 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject57>
+  <DataObject58 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject58>
+  <DataObject59 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject59>
+  <DataObject60 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject60>
+  <DataObject61 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject61>
+  <DataObject62 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject62>
+  <DataObject63 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject63>
+  <DataObject64 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject64>
+  <DataObject65 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject65>
+  <DataObject66 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject66>
+  <DataObject67 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject67>
+  <DataObject68 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="REPEAT" WrapT="REPEAT" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject68>
+  <DataObject69 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject69>
+  <DataObject70 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject70>
+  <DataObject71 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject71>
+  <DataObject72 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject72>
+  <DataObject73 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject73>
+  <DataObject74 Flags="1C">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject74>
+  <DataObject75 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject75>
+  <DataObject76 Flags="14">
+    <Textures>
+      <Texture Flags="50010" WrapS="CLAMP" WrapT="CLAMP" MagFilter="GX_LINEAR" />
+    </Textures>
+  </DataObject76>
+</DAT>
